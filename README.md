@@ -1,1 +1,1 @@
-sts3-mvc
+spring tool suite 3 -> 4 
